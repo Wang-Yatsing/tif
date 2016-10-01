@@ -1,2 +1,2 @@
 # tif
-A little game for Android
+一個安卓棋盤小遊戲
